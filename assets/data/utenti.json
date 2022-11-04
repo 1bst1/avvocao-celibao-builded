@@ -2,7 +2,7 @@
     {
         "id": 1,
         "nome": "Bastone",
-        "pagato": 0
+        "pagato": 50
     },
     {
         "id": 2,
@@ -42,6 +42,6 @@
     {
         "id": 9,
         "nome": "De Braciis",
-        "pagato": 0
+        "pagato": 50
     }
 ]
