@@ -2,7 +2,7 @@
     {
         "id": 1,
         "descrizione": "Biglietto aereo",
-        "costo": 999,
-        "pagato": 50
+        "costo": 150,
+        "pagato": 0
     }
 ] 
