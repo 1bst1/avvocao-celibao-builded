@@ -1,0 +1,47 @@
+[ 
+    {
+        "id": 1,
+        "nome": "Bastone",
+        "pagato": 50
+    },
+    {
+        "id": 2,
+        "nome": "Cono",
+        "pagato": 0
+    },
+    {
+        "id": 3,
+        "nome": "Il Gatto",
+        "pagato": 0
+    },
+    {
+        "id": 4,
+        "nome": "Avv.Calabrone",
+        "pagato": 0
+    },
+    {
+        "id": 5,
+        "nome": "Littorio",
+        "pagato": 0
+    },
+    {
+        "id": 6,
+        "nome": "Pinele",
+        "pagato": 0
+    },
+    {
+        "id": 7,
+        "nome": "Il Biondo",
+        "pagato": 0
+    },
+    {
+        "id": 8,
+        "nome": "Pampa",
+        "pagato": 30
+    },
+    {
+        "id": 9,
+        "nome": "De Braciis",
+        "pagato": 0
+    }
+]

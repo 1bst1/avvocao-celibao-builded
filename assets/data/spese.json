@@ -1,0 +1,8 @@
+[
+    {
+        "id": 1,
+        "descrizione": "Biglietto aereo",
+        "costo": 999,
+        "pagato": 50
+    }
+] 
