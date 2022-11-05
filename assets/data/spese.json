@@ -4,5 +4,11 @@
         "descrizione": "Roma - Lisbona",
         "costo": 103.4,
         "pagato": 103.4
+    },
+    {
+        "id": 2,
+        "descrizione": "Lisbona - Roma",
+        "costo": 77.2,
+        "pagato": 77.2
     }
 ] 
