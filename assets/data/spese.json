@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "descrizione": "Biglietto aereo",
-        "costo": 150,
+        "descrizione": "Roma - Lisbona (11:40 - 13:50)",
+        "costo": 103.4,
         "pagato": 0
     }
 ] 
