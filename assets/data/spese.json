@@ -10,5 +10,11 @@
         "descrizione": "Lisbona - Roma",
         "costo": 77.2,
         "pagato": 77.2
+    },
+    {
+        "id": 3,
+        "descrizione": "Casa",
+        "costo": 1008,
+        "pagato": 1008
     }
 ] 
